@@ -1,6 +1,6 @@
 # Porn Hub Api With Express
 
-## Usage/Examples
+## 🏗️ Example 🏗️
 
 ```javascript
 var axios = require('axios');
@@ -28,7 +28,7 @@ axios(config)
 ```
 
 
-## API Reference
+# ⚓ End Points ⚓
 
 ```http
   POST /api/get/pornstars
@@ -152,24 +152,29 @@ axios(config)
 | `production`      | `all`, `professional`, `homemade` | 
 | `type`      | `data`, `paging`, `counting` | 
 
-## Installation
 
-```bash
-  npm i
-  node .
-```
+# 🛠️ Installation 🛠️
 
-## Tech Stack
+- Download and install [NodeJs](https://nodejs.org/en/download) on your computer.
+- Download the project as Zip to your computer and unzip it.
+- Enter the folder you extracted from the zip and open a terminal to the location of that folder, then enter the following commands.
+`npm install`
+- Start the bot by entering the following command in Terminal
+`node .`
 
-**Server:** Node, Express, PornHub.Js
+## ⛳Tech Stack ⛳
+
+**🗄️Server:** Node, PornHub.Js, Express, body-parser
 
 ---
-- ✨ [Destek İçin](https://fastuptime.com) <br>
+- ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
 - 💕 [Discord](https://fastuptime.com/discord)<br>
-- 🎖️ [FasterHost Technology](https://fasterhost.tech/)<br>
-- ✨ İletişim için [Tıkla!](mailto:fastuptime@gmail.com)<br>
+- 🏓 [Fast Uptime](https://fastuptime.com/)<br>
+- 🪄 All kinds of projects are made <br>
+- 🧨 You can contact us to make a paid project<br>
+- ☄️ [Click For Contact](mailto:fastuptime@gmail.com)<br>
 
-# License
-- Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
+# 🎯 License 🎯
+- ⚖️ Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="BYNCSA40"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a>
